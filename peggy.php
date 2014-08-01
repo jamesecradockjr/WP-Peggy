@@ -9,7 +9,8 @@
  * Author URI: http://www.yellahoose.com/
  * License: TBD
  */
- 
+
+// Requirements: PHP with libcurl, WordPress, Peggy a.k.a. Perl-Peggy.  
 // Installation: Put this script in your plugins folder, then login to WordPress and activate WP Peggy.  
 // Usage: [html_ent_email email="email@address.com" text="Some text to link to"] 
  
